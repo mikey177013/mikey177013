@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://giffiles.alphacoders.com/221/221578.gifhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdAnXT5lckNJS0L5eoWvTR01NlM7SVX41pXw&s">
+<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/4a/59/04/4a5904db82b19b2965026a04b073503f.gif">
 </div>
 
 </br>
