@@ -1,5 +1,37 @@
-# 💫 About Me:
-🤖 I AM CURRENTLY WORKING ON WHATSAPP BOT.<br>🤖 I AM NEW AT CODING.<br>🤖 MY HOBBIE OTHER THAN CODING :<br>      1. SOLVING RUBIK'S CUBE<br>      2. CALISTHENICS <br>      3. CHESS<br>      <br><br><br>  𝚸𝚮𝚯𝚵𝚴𝚰𝚾 
+# Konichiwa 👋
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://giffiles.alphacoders.com/221/221578.gifhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdAnXT5lckNJS0L5eoWvTR01NlM7SVX41pXw&s">
+</div>
+
+</br>
+</br>
+</br>
+
+
+# About ME 💬 :
+
+### - I'm 17 years  old coding learning Enthusiast from India.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://giffiles.alphacoders.com/221/221578.gif">
+
+### - Learning :
+- ✨ whatsapp bot development 
+- ✨ AI prompt
+
+### - Hobbies : 
+- ✨ Solving rubiks cube
+- ✨ Watching Anime
+- ✨ calisthenics 
+- ✨ Badminton
+
+</br>
+</br>
+</br>
+
+
+
+
 
 
 ## 🌐 Socials:
@@ -15,4 +47,39 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=PhoenixFury0000&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+# Konichiwa 👋
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
+
+</br>
+</br>
+</br>
+
+
+# About ME 💬 :
+
+### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ Generative Adversarial Networks
+
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Badminton (Neighbourhood Professional XD)
+
+</br>
+</br>
+</br>
+
+
+
