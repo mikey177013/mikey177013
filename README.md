@@ -15,3 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=PhoenixFury0000&icon=6&color=0)](https://visitcount.itsvg.in)
 
+https://count.getloli.com/@𝚸𝚮𝚯𝚵𝚴𝚰𝚾?name=%F0%9D%9A%B8%F0%9D%9A%AE%F0%9D%9A%AF%F0%9D%9A%B5%F0%9D%9A%B4%F0%9D%9A%B0%F0%9D%9A%BE&theme=asoul&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto
