@@ -45,8 +45,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixFury0000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PhoenixFury0000&icon=6&color=0)](https://visitcount.itsvg.in)
-
-
+## Activities
+<img align="left" width="480" alt="metrics" src="/github-metrics.svg">
+<img align="right" alt="count" src="https://count.getloli.com/get/@:usernametheme=rule34">
 
 
