@@ -34,6 +34,11 @@
 <img align="left" width="480" alt="metrics" src="/github-metrics.svg">
 <img align="right" alt="count" src="https://count.getloli.com/get/@:usernametheme=rule34">
 
+##contribute 🔥
+
+
+![snake gif](https://github.com/PhoenixFury0000/PhoenixFury0000/blob/output/github-snake-dark.svg)
+
 
 
 
@@ -48,9 +53,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixFury0000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
-##contribute 🔥
-
-
-![snake gif](https://github.com/PhoenixFury0000/PhoenixFury0000/blob/output/github-snake-dark.svg)
 
