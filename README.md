@@ -16,8 +16,13 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://giffiles.alphacoders.com/221/221578.gif">
 
 ### - Learning :
-- ✨ whatsapp bot development 
+- ✨ website development 
+- ✨ game making 
 - ✨ AI prompt
+
+
+well i am vibe coder for now 
+but I will learn coding from basic after completing my 12th. hehe
 
 ### - Hobbies : 
 - ✨ Solving rubiks cube
