@@ -25,7 +25,8 @@
 
 Just a vibe coder, planning to study coding seriously after 12th.
 
-### - Hobbies : 
+# *Hobbies* <img src="https://media.tenor.com/OWamxTSEmykAAAAi/adorable-litte-rabbit-cute.gif" height="50px" width="50px">
+
 
 - ✨ Solving rubiks cube
 - ✨ Watching Anime
