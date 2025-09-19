@@ -7,7 +7,8 @@
 </br>
 </br>
 
-# *About ME* 💬 :
+# *About Me* <img src="https://media.tenor.com/WrmdqA8tQP4AAAAi/pengu-pudgy.gif" height="50px" width="50px">
+
 
 ### - I'm 17 years  old coding learning Enthusiast from India.
 
