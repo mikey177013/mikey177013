@@ -13,8 +13,9 @@
 ### - I'm 17 years  old coding learning Enthusiast from India.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/1HdzVgbdnzUAAAAd/tenor.gif">
+
 </br>
-</br>
+
 
 # *Learning* <img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" height="50px" width="50px">
 
@@ -26,7 +27,6 @@
 Just a vibe coder, planning to study coding seriously after 12th.
 
 </br>
-</br>
 
 # *Hobbies* <img src="https://media.tenor.com/OWamxTSEmykAAAAi/adorable-litte-rabbit-cute.gif" height="50px" width="50px">
 
@@ -37,8 +37,6 @@ Just a vibe coder, planning to study coding seriously after 12th.
 - ✨ Badminton
 
 </br>
-</br>
-</br>
 
 # *Total Visits* <img src="https://media.tenor.com/h-GjfaK2wigAAAAi/usagy-usagyuuun.gif" height="50px" width="50px">
 
@@ -46,16 +44,22 @@ Just a vibe coder, planning to study coding seriously after 12th.
 <img align="left" width="480" alt="metrics" src="/github-metrics.svg">
 <img align="right" alt="count" src="https://count.getloli.com/get/@:usernametheme=rule34">
 
+</br>
+
 # *Socials* <img src="https://media.tenor.com/vp1NgtTNHMsAAAAi/follow-subscribe.gif" height="50px" width="50px">
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@phoenixiammikey) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white)](https://github.com/mikey177013)
+
+</br>
+
 
 # *Contribution* <img src="https://media.tenor.com/iwyOrAFkRDIAAAAi/pomu-money.gif" height="50px" width="50px">
 
 
 ![snake gif](https://github.com/PhoenixFury0000/PhoenixFury0000/blob/output/github-snake-dark.svg)
 
+</br>
 
 # *Tech Stack* <img src="https://media.tenor.com/32GYLZcu3tsAAAAj/innovation-future.gif" height="50px" width="50px">
 
