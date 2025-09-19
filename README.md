@@ -16,7 +16,8 @@
 
 
 
-### - Learning :
+# *Learning* <img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" height="50px" width="50px">
+
 - ✨ website development 
 - ✨ game making 
 - ✨ AI prompt
