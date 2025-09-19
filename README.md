@@ -37,13 +37,14 @@ Just a vibe coder, planning to study coding seriously after 12th.
 </br>
 </br>
 
-# *Activities* <img src="https://media.tenor.com/h-GjfaK2wigAAAAi/usagy-usagyuuun.gif" height="50px" width="50px">
+# *Total Visits* <img src="https://media.tenor.com/h-GjfaK2wigAAAAi/usagy-usagyuuun.gif" height="50px" width="50px">
 
 
 <img align="left" width="480" alt="metrics" src="/github-metrics.svg">
 <img align="right" alt="count" src="https://count.getloli.com/get/@:usernametheme=rule34">
 
-## 🌐 *Socials*:
+# *Socials* <img src="https://media.tenor.com/vp1NgtTNHMsAAAAi/follow-subscribe.gif" height="50px" width="50px">
+
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@phoenixiammikey) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white)](https://github.com/mikey177013)
 
