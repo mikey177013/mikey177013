@@ -13,8 +13,8 @@
 ### - I'm 17 years  old coding learning Enthusiast from India.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/1HdzVgbdnzUAAAAd/tenor.gif">
-
-
+</br>
+</br>
 
 # *Learning* <img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" height="50px" width="50px">
 
@@ -25,6 +25,8 @@
 
 Just a vibe coder, planning to study coding seriously after 12th.
 
+</br>
+</br>
 # *Hobbies* <img src="https://media.tenor.com/OWamxTSEmykAAAAi/adorable-litte-rabbit-cute.gif" height="50px" width="50px">
 
 
