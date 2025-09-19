@@ -43,7 +43,8 @@ Just a vibe coder, planning to study coding seriously after 12th.
 <img align="right" alt="count" src="https://count.getloli.com/get/@:usernametheme=rule34">
 
 ## 🌐 *Socials*:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/PiyushGupt60087?t=lVfVWREZko-uHo6v8I_1Lw&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@phoenixfury_editz0001) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@phoenixiammikey) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white)](https://github.com/mikey177013)
 
 # 🔥 *contribution* 
 
