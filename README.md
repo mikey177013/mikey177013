@@ -22,6 +22,7 @@
 Just a vibe coder, planning to study coding seriously after 12th.
 
 ### - Hobbies : 
+
 - ✨ Solving rubiks cube
 - ✨ Watching Anime
 - ✨ calisthenics 
