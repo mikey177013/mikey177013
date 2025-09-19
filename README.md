@@ -1,9 +1,8 @@
 # *Konichiwa* <img src="https://media.giphy.com/media/Ze1Gn2V62X0Q1IH1vS/giphy.gif" height="50px" width="50px">
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/eb/b2/68/ebb2689ba1a4b6fb0856e3481ab048c1.gif">
+  <img src="https://i.pinimg.com/originals/eb/b2/68/ebb2689ba1a4b6fb0856e3481ab048c1.gif" height="300" width="700">
 </div>
-
 </br>
 </br>
 </br>
