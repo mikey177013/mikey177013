@@ -1,7 +1,7 @@
 # *Konichiwa* <img src="https://media.giphy.com/media/Ze1Gn2V62X0Q1IH1vS/giphy.gif" height="50px" width="50px">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mikey177013/mikey177013/refs/heads/main/mygif.gif" height="300" width="700">
+  <img src="https://i.ibb.co/hJZvDF6p/1000367134.gif" height="300" width="700">
 </div>
 </br>
 </br>
