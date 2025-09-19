@@ -19,8 +19,7 @@
 - ✨ AI prompt
 
 
-well i am vibe coder for now 
-but I will learn coding from basic after completing my 12th. hehe
+Just a vibe coder, planning to study coding seriously after 12th.
 
 ### - Hobbies : 
 - ✨ Solving rubiks cube
@@ -37,15 +36,10 @@ but I will learn coding from basic after completing my 12th. hehe
 <img align="left" width="480" alt="metrics" src="/github-metrics.svg">
 <img align="right" alt="count" src="https://count.getloli.com/get/@:usernametheme=rule34">
 
-
-
-
-
 ## 🌐 *Socials*:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/PiyushGupt60087?t=lVfVWREZko-uHo6v8I_1Lw&s=09) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@phoenixfury_editz0001) 
 
-# 🔥 *contribute* 
-
+# 🔥 *contribution* 
 
 ![snake gif](https://github.com/PhoenixFury0000/PhoenixFury0000/blob/output/github-snake-dark.svg)
 
