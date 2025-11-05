@@ -7,6 +7,7 @@
 </br>
 </br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Yo+I+am+%F0%9D%9A%B8%F0%9D%9A%AE%F0%9D%9A%AF%F0%9D%9A%B5%F0%9D%9A%B4%F0%9D%9A%B0%F0%9D%9A%BE)](https://git.io/typing-svg)
 # *About Me* <img src="https://media.tenor.com/WrmdqA8tQP4AAAAi/pengu-pudgy.gif" height="50px" width="50px">
 
 
