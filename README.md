@@ -12,8 +12,6 @@
 
 ### - I'm 17 years  old coding learning Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://c.tenor.com/1HdzVgbdnzUAAAAd/tenor.gif">
-
 </br>
 
 
