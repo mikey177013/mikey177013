@@ -68,4 +68,4 @@ Just a vibe coder, planning to study coding seriously after 12th.
 ![](https://nirzak-streak-stats.vercel.app/?user=mikey177013&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikey177013&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Visitor](https://gittelebotv.onrender.com/pixel.png?ref=github&t={{random}}&v=1)
+
