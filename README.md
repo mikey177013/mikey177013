@@ -1,72 +1,76 @@
-# *Konichiwa* <img src="https://media.giphy.com/media/Ze1Gn2V62X0Q1IH1vS/giphy.gif" height="50px" width="50px">
+Konichiwa
 
-<div align="center">
-  <img src="https://files.catbox.moe/akd6qu.gif" height="300" width="700">
-</div>
-</br>
-</br>
-</br>
+<div align="center"><a href="https://sanosenxpai.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a><br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Yo+I+am+%F0%9D%9A%B8%F0%9D%9A%AE%F0%9D%9A%AF%F0%9D%9A%B5%F0%9D%9A%B4%F0%9D%9A%B0%F0%9D%9A%BE)](https://git.io/typing-svg)
+<img src="https://files.catbox.moe/akd6qu.gif" height="300" width="700"/><br><br>
 
+""Typing SVG" (https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Yo+I+am+𝚸𝚮𝚯𝚴𝚰𝚻)" (https://git.io/typing-svg)
 
-### - I'm 18 years  old coding learning Enthusiast from India.
+</div>---
 
-</br>
+About Me
 
+- 18 years old developer from India
+- Currently focused on Web Development
+- Passionate about building, experimenting, and learning fast
 
-# *Learning* <img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" height="50px" width="50px">
+---
 
-- ✨ website development 
-- ✨ game making 
-- ✨ AI prompt
+Learning
 
-</br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,python" />- Website Development
+- Game Development
+- AI Prompt Engineering
 
-# *Hobbies* <img src="https://media.tenor.com/OWamxTSEmykAAAAi/adorable-litte-rabbit-cute.gif" height="50px" width="50px">
+---
 
+Hobbies
 
-- ✨ Solving rubiks cube
-- ✨ Watching Anime
-- ✨ calisthenics 
-- ✨ Badminton
+<img src="https://skillicons.dev/icons?i=github" />- Solving Rubik’s Cube
+- Watching Anime
+- Calisthenics
+- Badminton
 
-</br>
+---
 
-# *Total Visits* <img src="https://media.tenor.com/h-GjfaK2wigAAAAi/usagy-usagyuuun.gif" height="50px" width="50px">
-
+Total Visits
 
 <img align="left" width="480" alt="metrics" src="/github-metrics.svg">
-<img align="right" alt="count" src="https://count.getloli.com/get/@:usernametheme=rule34">
+<img align="right" alt="count" src="https://count.getloli.com/get/@:usernametheme=rule34"><br><br><br><br><br><br>
 
-</br>
+---
 
-# *Socials* <img src="https://media.tenor.com/vp1NgtTNHMsAAAAi/follow-subscribe.gif" height="50px" width="50px">
+Socials
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@phoenixiammikey) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white)](https://github.com/mikey177013)
+<div align="center"><a href="https://youtube.com/@phoenixiammikey">
+  <img src="https://skillicons.dev/icons?i=youtube" />
+</a><a href="https://github.com/mikey177013">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a></div>---
 
-</br>
+Contribution
 
-# *Contribution* <img src="https://media.tenor.com/iwyOrAFkRDIAAAAi/pomu-money.gif" height="50px" width="50px">
+<div align="center">"snake gif" (https://github.com/PhoenixFury0000/PhoenixFury0000/blob/output/github-snake-dark.svg)
 
+</div>---
 
-![snake gif](https://github.com/PhoenixFury0000/PhoenixFury0000/blob/output/github-snake-dark.svg)
+Tech Stack
 
-</br>
+<div align="center"><img src="https://skillicons.dev/icons?i=cpp,nodejs,python,wordpress,git,github,cloudflare" /><br><br>
 
-# *Tech Stack* <img src="https://media.tenor.com/32GYLZcu3tsAAAAj/innovation-future.gif" height="50px" width="50px">
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/></div>---
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+Github Stats
 
-# *Github* <img src="https://media.tenor.com/4Pn_yTK8fNwAAAAi/shuusakurai-shuu.gif" height="50px" width="50px">
+<div align="center">https://github-readme-stats.vercel.app/api?username=mikey177013&theme=dark&hide_border=false&include_all_commits=false&count_private=false
 
-![](https://github-readme-stats.vercel.app/api?username=mikey177013&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mikey177013&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikey177013&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>https://nirzak-streak-stats.vercel.app/?user=mikey177013&theme=dark&hide_border=false
 
+<br>https://github-readme-stats.vercel.app/api/top-langs/?username=mikey177013&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
 
-
-
-
-
+</div>
