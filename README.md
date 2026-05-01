@@ -47,7 +47,7 @@
 
 # *Socials* <img src="https://media.tenor.com/vp1NgtTNHMsAAAAi/follow-subscribe.gif" height="50px" width="50px">
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@phoenixiammikey) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sano.senxpai) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white)](https://github.com/mikey177013)
 
 </br>
