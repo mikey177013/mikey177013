@@ -1,5 +1,9 @@
 # *Konichiwa* <img src="https://media.giphy.com/media/Ze1Gn2V62X0Q1IH1vS/giphy.gif" height="50px" width="50px">
 
+<div align="center"><a href="https://sanosenxpai.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a><br><br>
+
 <div align="center">
   <img src="https://files.catbox.moe/akd6qu.gif" height="300" width="700">
 </div>
@@ -17,19 +21,19 @@
 
 # *Learning* <img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" height="50px" width="50px">
 
-- ✨ website development 
-- ✨ game making 
-- ✨ AI prompt
+- ● website development 
+- ● game making 
+- ● AI prompt
 
 </br>
 
 # *Hobbies* <img src="https://media.tenor.com/OWamxTSEmykAAAAi/adorable-litte-rabbit-cute.gif" height="50px" width="50px">
 
 
-- ✨ Solving rubiks cube
-- ✨ Watching Anime
-- ✨ calisthenics 
-- ✨ Badminton
+- ● Solving rubiks cube
+- ● Watching Anime
+- ● calisthenics 
+- ● Badminton
 
 </br>
 
