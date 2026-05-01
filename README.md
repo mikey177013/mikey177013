@@ -21,9 +21,6 @@
 - ✨ game making 
 - ✨ AI prompt
 
-
-Just a vibe coder, planning to study coding seriously after 12th.
-
 </br>
 
 # *Hobbies* <img src="https://media.tenor.com/OWamxTSEmykAAAAi/adorable-litte-rabbit-cute.gif" height="50px" width="50px">
