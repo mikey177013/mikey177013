@@ -71,6 +71,6 @@
 
 
 
-https://naruto-sooty.vercel.app/
+
 
 
