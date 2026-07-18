@@ -227,3 +227,243 @@
 <br/>
 
 
+
+
+
+
+
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              SHOOTER GAME                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.tenor.com/4Pn_yTK8fNwAAAAi/shuusakurai-shuu.gif" height="32" align="center"/> &nbsp; Terminal Shooter
+
+<div align="center">
+
+<canvas id="gameCanvas" width="600" height="400" style="border: 2px solid #8B5CF6; background: #000000; border-radius: 8px; max-width: 100%;"></canvas>
+
+<script>
+// ──────────────────────────────────────────────────────────────────────────────
+//  TERMINAL SHOOTER - Pure Black Theme
+// ──────────────────────────────────────────────────────────────────────────────
+
+const canvas = document.getElementById('gameCanvas');
+const ctx = canvas.getContext('2d');
+
+// ── Player ──
+const player = {
+  x: 280,
+  y: 340,
+  width: 30,
+  height: 30,
+  speed: 5,
+  lives: 3,
+  score: 0
+};
+
+// ── Bullets ──
+let bullets = [];
+const bulletSpeed = 7;
+const shootCooldown = 150;
+let lastShootTime = 0;
+
+// ── Enemies ──
+let enemies = [];
+const enemySpeed = 1.5;
+const spawnInterval = 1200;
+let lastSpawnTime = 0;
+
+// ── Keys ──
+const keys = { left: false, right: false, space: false };
+
+// ── Event Listeners ──
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'ArrowLeft' || e.key === 'a') keys.left = true;
+  if (e.key === 'ArrowRight' || e.key === 'd') keys.right = true;
+  if (e.key === ' ' || e.key === 'ArrowUp') {
+    e.preventDefault();
+    keys.space = true;
+  }
+});
+
+document.addEventListener('keyup', (e) => {
+  if (e.key === 'ArrowLeft' || e.key === 'a') keys.left = false;
+  if (e.key === 'ArrowRight' || e.key === 'd') keys.right = false;
+  if (e.key === ' ' || e.key === 'ArrowUp') {
+    e.preventDefault();
+    keys.space = false;
+  }
+});
+
+// ── Spawn Enemy ──
+function spawnEnemy() {
+  const x = Math.random() * (canvas.width - 30);
+  enemies.push({
+    x: x,
+    y: -30,
+    width: 25,
+    height: 25,
+    speed: enemySpeed + Math.random() * 0.5
+  });
+}
+
+// ── Shoot ──
+function shoot() {
+  const now = Date.now();
+  if (now - lastShootTime < shootCooldown) return;
+  lastShootTime = now;
+  bullets.push({
+    x: player.x + player.width / 2 - 2,
+    y: player.y,
+    width: 4,
+    height: 12,
+    speed: bulletSpeed
+  });
+}
+
+// ── Reset Game ──
+function resetGame() {
+  player.lives = 3;
+  player.score = 0;
+  player.x = 280;
+  bullets = [];
+  enemies = [];
+}
+
+// ── Collision Detection ──
+function rectCollide(r1, r2) {
+  return r1.x < r2.x + r2.width &&
+         r1.x + r1.width > r2.x &&
+         r1.y < r2.y + r2.height &&
+         r1.y + r1.height > r2.y;
+}
+
+// ── Update ──
+function update() {
+  // Player movement
+  if (keys.left && player.x > 0) player.x -= player.speed;
+  if (keys.right && player.x < canvas.width - player.width) player.x += player.speed;
+  if (keys.space) shoot();
+
+  // Bullets
+  bullets = bullets.filter(b => {
+    b.y -= b.speed;
+    return b.y + b.height > 0;
+  });
+
+  // Enemies
+  const now = Date.now();
+  if (now - lastSpawnTime > spawnInterval) {
+    spawnEnemy();
+    lastSpawnTime = now;
+  }
+
+  enemies = enemies.filter(enemy => {
+    enemy.y += enemy.speed;
+
+    // Enemy hits player
+    if (rectCollide(enemy, player)) {
+      player.lives--;
+      return false;
+    }
+
+    // Enemy reaches bottom
+    if (enemy.y > canvas.height) {
+      player.lives--;
+      return false;
+    }
+
+    // Bullet hits enemy
+    for (let i = bullets.length - 1; i >= 0; i--) {
+      if (rectCollide(bullets[i], enemy)) {
+        bullets.splice(i, 1);
+        player.score += 10;
+        return false;
+      }
+    }
+
+    return true;
+  });
+
+  // Game over
+  if (player.lives <= 0) {
+    resetGame();
+  }
+}
+
+// ── Draw ──
+function draw() {
+  ctx.fillStyle = '#000000';
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+  // ── Grid (Terminal feel) ──
+  ctx.strokeStyle = '#111111';
+  ctx.lineWidth = 0.5;
+  for (let i = 0; i < canvas.width; i += 30) {
+    ctx.beginPath();
+    ctx.moveTo(i, 0);
+    ctx.lineTo(i, canvas.height);
+    ctx.stroke();
+  }
+  for (let i = 0; i < canvas.height; i += 30) {
+    ctx.beginPath();
+    ctx.moveTo(0, i);
+    ctx.lineTo(canvas.width, i);
+    ctx.stroke();
+  }
+
+  // ── Player (Terminal style) ──
+  ctx.fillStyle = '#8B5CF6';
+  ctx.shadowColor = '#8B5CF6';
+  ctx.shadowBlur = 10;
+  ctx.fillRect(player.x, player.y, player.width, player.height);
+  ctx.shadowBlur = 0;
+
+  // Player glow
+  ctx.fillStyle = 'rgba(139, 92, 246, 0.1)';
+  ctx.fillRect(player.x - 5, player.y - 5, player.width + 10, player.height + 10);
+
+  // ── Bullets ──
+  ctx.fillStyle = '#A78BFA';
+  bullets.forEach(b => {
+    ctx.fillRect(b.x, b.y, b.width, b.height);
+  });
+
+  // ── Enemies ──
+  ctx.fillStyle = '#FF6B6B';
+  ctx.shadowColor = '#FF6B6B';
+  ctx.shadowBlur = 8;
+  enemies.forEach(enemy => {
+    ctx.fillRect(enemy.x, enemy.y, enemy.width, enemy.height);
+  });
+  ctx.shadowBlur = 0;
+
+  // ── HUD ──
+  ctx.font = '14px "Courier New", monospace';
+  ctx.fillStyle = '#aaaaaa';
+  ctx.fillText(`❤️ ${player.lives}`, 10, 25);
+  ctx.fillText(`⭐ ${player.score}`, canvas.width - 80, 25);
+
+  // ── Controls Hint ──
+  ctx.font = '10px "Courier New", monospace';
+  ctx.fillStyle = '#555555';
+  ctx.fillText('← → or A D to move | SPACE or ↑ to shoot', 180, canvas.height - 10);
+}
+
+// ── Game Loop ──
+function gameLoop() {
+  update();
+  draw();
+  requestAnimationFrame(gameLoop);
+}
+
+// ── Start ──
+gameLoop();
+</script>
+
+</div>
+
+<br/>
+
