@@ -177,30 +177,31 @@
 
 <div align="center">
 
+<!-- Stats Card - Pure Black -->
 <a href="https://github.com/mikey177013">
-  <img height="170" src="https://gh-readme-stats.vercel.app/api?username=mikey177013&show_icons=true&theme=github_dark&hide_border=true" alt="stats"/>
+  <img height="170" src="https://gh-readme-stats.vercel.app/api?username=mikey177013&show_icons=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=8B5CF6&hide_border=true" alt="stats"/>
 </a>
+
+<!-- Streak Card - Pure Black -->
 <a href="https://github.com/mikey177013">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mikey177013&theme=github-dark" alt="streak"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mikey177013&theme=dark&background=000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=ffffff&sideNums=8B5CF6&sideLabels=aaaaaa&dates=aaaaaa&hide_border=true" alt="streak"/>
 </a>
 
 <br/>
 
+<!-- Top Languages - Pure Black -->
 <a href="https://github.com/mikey177013">
-  <img height="170" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=mikey177013&layout=compact&bg_color=0a0a0a&title_color=ffffff&text_color=9ca3af&icon_color=6366f1" alt="top-langs"/>
+  <img height="170" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=mikey177013&layout=compact&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=8B5CF6&hide_border=true" alt="top-langs"/>
 </a>
 
 <br/><br/>
 
-
-
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mikey177013&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="98%" alt="activity graph"/>
+<!-- Activity Graph - Pure Black -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mikey177013&bg_color=000000&color=aaaaaa&line=8B5CF6&point=A78BFA&area=true&area_color=8B5CF6&hide_border=true" width="98%" alt="activity graph"/>
 
 </div>
 
 <br/>
-
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                                CONNECT                                      -->
