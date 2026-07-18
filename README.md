@@ -19,13 +19,33 @@
 </br>
 
 
-# *Learning* <img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" height="50px" width="50px">
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                               CURRENT FOCUS                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
--  website development 
--  game making 
--  AI prompt
+## <img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" height="32" align="center"/> &nbsp; Current Focus
 
-</br>
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40"/>
+  <br/><b>App Development</b><br/>
+  <sub>React · Capacitor · Android</sub>
+</td>
+
+<td align="center" width="33%">
+  <img src="https://cdn.simpleicons.org/openai/10A37F" height="40"/>
+  <br/><b>LLM Engineering</b><br/>
+  <sub>AI Agents · RAG · LLM Applications</sub>
+</td>
+
+<td align="center" width="33%">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40"/>
+  <br/><b>Open Source</b><br/>
+</tr>
+</table>
+
+<br/>
 
 # *Hobbies* <img src="https://media.tenor.com/OWamxTSEmykAAAAi/adorable-litte-rabbit-cute.gif" height="50px" width="50px">
 
