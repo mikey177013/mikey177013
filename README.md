@@ -18,12 +18,11 @@
 
 </br>
 
-
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                               CURRENT FOCUS                               -->
+<!--                              CURRENTLY LEARNING                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" height="32" align="center"/> &nbsp; Current Focus
+## <img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" height="32" align="center"/> &nbsp; Currently Learning
 
 <table>
 <tr>
@@ -34,14 +33,16 @@
 </td>
 
 <td align="center" width="33%">
-  <img src="https://cdn.simpleicons.org/openai/10A37F" height="40"/>
-  <br/><b>LLM Engineering</b><br/>
-  <sub>AI Agents · RAG · LLM Applications</sub>
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40"/>
+  <br/><b>Game Development</b><br/>
+  <sub>Unity · C# · Game Design</sub>
 </td>
 
 <td align="center" width="33%">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40"/>
-  <br/><b>Open Source</b><br/>
+  <img src="https://cdn.simpleicons.org/openai/10A37F" height="40"/>
+  <br/><b>LLM Engineering</b><br/>
+  <sub>AI Agents · RAG · Prompt Engineering</sub>
+</td>
 </tr>
 </table>
 
