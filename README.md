@@ -187,7 +187,7 @@
 <br/>
 
 <a href="https://github.com/mikey177013">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikey177013&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&layout=compact&langs_count=8" alt="top-langs"/>
+  <img height="170" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=mikey177013&layout=compact&bg_color=0a0a0a&title_color=ffffff&text_color=9ca3af&icon_color=6366f1" alt="top-langs"/>
 </a>
 
 <br/><br/>
