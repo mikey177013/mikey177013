@@ -58,7 +58,7 @@
 <table>
 <tr>
 <td align="center" width="25%">
-  <img src="https://cdn.simpleicons.org/rubiksrubiks/FFFFFF" height="34"/>
+  <img src="https://files.catbox.moe/3zbpre.png"/>
   <br/><sub><b>Rubik's Cube</b></sub>
 </td>
 <td align="center" width="25%">
