@@ -166,14 +166,32 @@
 
 <br/>
 
-# *Github* <img src="https://media.tenor.com/4Pn_yTK8fNwAAAAi/shuusakurai-shuu.gif" height="50px" width="50px">
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                             GITHUB STATS                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-![](https://github-readme-stats.vercel.app/api?username=mikey177013&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mikey177013&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikey177013&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## <img src="https://media.tenor.com/4Pn_yTK8fNwAAAAi/shuusakurai-shuu.gif" height="32" align="center"/> &nbsp; GitHub Stats
 
+<div align="center">
 
+<a href="https://github.com/mikey177013">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mikey177013&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="stats"/>
+</a>
+<a href="https://github.com/mikey177013">
+  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=mikey177013&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="streak"/>
+</a>
 
+<br/>
 
+<a href="https://github.com/mikey177013">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikey177013&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&layout=compact&langs_count=8" alt="top-langs"/>
+</a>
 
+<br/><br/>
 
+<!-- Activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mikey177013&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="98%" alt="activity graph"/>
+
+</div>
+
+<br/>
