@@ -39,7 +39,7 @@
 </td>
 
 <td align="center" width="33%">
-  <img src="https://cdn.simpleicons.org/openai/10A37F" height="40"/>
+  <img src="https://simpleicons.org/icons/openaigym.svg" height="40"/>
   <br/><b>LLM Engineering</b><br/>
   <sub>AI Agents · RAG · Prompt Engineering</sub>
 </td>
