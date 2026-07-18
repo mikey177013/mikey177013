@@ -59,9 +59,70 @@
 
 </br>
 
-# *Tech Stack* <img src="https://media.tenor.com/32GYLZcu3tsAAAAj/innovation-future.gif" height="50px" width="50px">
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              TECH STACK                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.tenor.com/32GYLZcu3tsAAAAj/innovation-future.gif" height="32" align="center"/> &nbsp; Tech Stack
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="140"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,python" alt="languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="frontend"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase" alt="backend"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>Database</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=supabase" alt="supabase"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=pocketbase&logoColor=000000" height="47" alt="pocketbase"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" alt="tools"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>Deployment</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare" alt="deployment"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="react-router"/>
+      <img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="tanstack"/>
+      <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="rest"/>
+      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="pwa"/>
+      <img src="https://img.shields.io/badge/SEO-4B8BBE?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="seo"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="actions"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
 
 # *Github* <img src="https://media.tenor.com/4Pn_yTK8fNwAAAAi/shuusakurai-shuu.gif" height="50px" width="50px">
 
