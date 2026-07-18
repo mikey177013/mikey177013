@@ -1,4 +1,4 @@
-# *Konichiwa* <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyNmxjaWswc291emU4ZHE3NHJmeWd3ZzB1aXZybjhtdHM0aTV3MjE5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" height="50px" width="50px">
+# *Konichiwa* <img src="https://tenor.com/en-IN/view/cute-gif-1245613446558071857" height="50px" width="50px">
 
 <div align="center"><a href="https://sanosenxpai.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
