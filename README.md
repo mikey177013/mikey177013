@@ -178,10 +178,10 @@
 <div align="center">
 
 <a href="https://github.com/mikey177013">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mikey177013&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="stats"/>
+  <img height="170" src="https://gh-readme-stats.vercel.app/api?username=mikey177013&show_icons=true&theme=github_dark&hide_border=true" alt="stats"/>
 </a>
 <a href="https://github.com/mikey177013">
-  <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=mikey177013&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="streak"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mikey177013&theme=github-dark" alt="streak"/>
 </a>
 
 <br/>
