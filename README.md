@@ -244,7 +244,7 @@
 
 <canvas id="gameCanvas" width="600" height="400" style="border: 2px solid #8B5CF6; background: #000000; border-radius: 8px; max-width: 100%;"></canvas>
 
-<script>
+
 // ──────────────────────────────────────────────────────────────────────────────
 //  TERMINAL SHOOTER - Pure Black Theme
 // ──────────────────────────────────────────────────────────────────────────────
