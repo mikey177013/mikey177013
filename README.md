@@ -87,12 +87,28 @@
 
 </br>
 
-# *Socials* <img src="https://media.tenor.com/vp1NgtTNHMsAAAAi/follow-subscribe.gif" height="50px" width="50px">
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                                CONNECT                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sano.senxpai) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white)](https://github.com/mikey177013)
+## <img src="https://media.tenor.com/vp1NgtTNHMsAAAAi/follow-subscribe.gif" height="32" align="center"/> &nbsp; Let's Connect
 
-</br>
+<div align="center">
+
+<a href="https://sanosenxpai.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/mikey177013">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://youtube.com/@sano.senxpai">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+
+</div>
+
+<br/>
+
 
 # *Contribution* <img src="https://media.tenor.com/iwyOrAFkRDIAAAAi/pomu-money.gif" height="50px" width="50px">
 
