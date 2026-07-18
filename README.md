@@ -48,15 +48,36 @@
 
 <br/>
 
-# *Hobbies* <img src="https://media.tenor.com/OWamxTSEmykAAAAi/adorable-litte-rabbit-cute.gif" height="50px" width="50px">
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                                HOBBIES                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
--  Solving rubiks cube
--  Watching Anime
--  calisthenics 
--  Badminton
+## <img src="https://media.tenor.com/OWamxTSEmykAAAAi/adorable-litte-rabbit-cute.gif" height="32" align="center"/> &nbsp; Beyond Code
 
-</br>
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://cdn.simpleicons.org/rubiksrubiks/FFFFFF" height="34"/>
+  <br/><sub><b>Rubik's Cube</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://cdn.simpleicons.org/crunchyroll/F47521" height="34"/>
+  <br/><sub><b>Anime</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://cdn.simpleicons.org/strava/FC4C02" height="34"/>
+  <br/><sub><b>Calisthenics</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://cdn.simpleicons.org/nike/FFFFFF" height="34"/>
+  <br/><sub><b>Badminton</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
 
 # *Total Visits* <img src="https://media.tenor.com/h-GjfaK2wigAAAAi/usagy-usagyuuun.gif" height="50px" width="50px">
 
