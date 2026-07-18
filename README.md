@@ -11,6 +11,10 @@
 </br>
 </br>
 
+## 🎮 Play a Game
+
+[![Click to Play](https://img.shields.io/badge/🎮_PLAY_SHOOTER_GAME-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://space-shooter-snowy-ten.vercel.app/)
+
 
 ### - I'm 18 years  old coding learning Enthusiast from India.
 
