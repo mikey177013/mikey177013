@@ -16,6 +16,73 @@
 
 </br>
 
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                              TECH STACK                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.tenor.com/32GYLZcu3tsAAAAj/innovation-future.gif" height="32" align="center"/> &nbsp; Tech Stack
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="140"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,python" alt="languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="frontend"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase" alt="backend"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>Database</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=supabase" alt="supabase"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=pocketbase&logoColor=000000" height="47" alt="pocketbase"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" alt="tools"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>Deployment</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare" alt="deployment"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><b>Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="react-router"/>
+      <img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="tanstack"/>
+      <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="rest"/>
+      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="pwa"/>
+      <img src="https://img.shields.io/badge/SEO-4B8BBE?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="seo"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="actions"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+
+
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                              CURRENTLY LEARNING                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -89,33 +156,6 @@
 
 
 
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                                CONNECT                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.tenor.com/vp1NgtTNHMsAAAAi/follow-subscribe.gif" height="32" align="center"/> &nbsp; Let's Connect
-
-<div align="center">
-
-<a href="https://sanosenxpai.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://github.com/mikey177013">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://youtube.com/@sano.senxpai">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-
-</div>
-
-<br/>
-
-
-
-
-
 # *Contribution* <img src="https://media.tenor.com/iwyOrAFkRDIAAAAi/pomu-money.gif" height="50px" width="50px">
 
 
@@ -124,69 +164,7 @@
 </br>
 
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                              TECH STACK                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.tenor.com/32GYLZcu3tsAAAAj/innovation-future.gif" height="32" align="center"/> &nbsp; Tech Stack
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="140"><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,python" alt="languages"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140"><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="frontend"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140"><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase" alt="backend"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140"><b>Database</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=supabase" alt="supabase"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=pocketbase&logoColor=000000" height="47" alt="pocketbase"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140"><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" alt="tools"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140"><b>Deployment</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare" alt="deployment"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140"><b>Learning</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="react-router"/>
-      <img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="tanstack"/>
-      <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="rest"/>
-      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="pwa"/>
-      <img src="https://img.shields.io/badge/SEO-4B8BBE?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="seo"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="actions"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
 
 
 
@@ -222,3 +200,28 @@
 </div>
 
 <br/>
+
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                                CONNECT                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.tenor.com/vp1NgtTNHMsAAAAi/follow-subscribe.gif" height="32" align="center"/> &nbsp; Let's Connect
+
+<div align="center">
+
+<a href="https://sanosenxpai.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/mikey177013">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://youtube.com/@sano.senxpai">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+
+</div>
+
+<br/>
+
+
