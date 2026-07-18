@@ -85,6 +85,11 @@
 
 </br>
 
+
+
+
+
+
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                                CONNECT                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -106,6 +111,9 @@
 </div>
 
 <br/>
+
+
+
 
 
 # *Contribution* <img src="https://media.tenor.com/iwyOrAFkRDIAAAAi/pomu-money.gif" height="50px" width="50px">
@@ -180,6 +188,9 @@
 
 <br/>
 
+
+
+
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                             GITHUB STATS                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -202,6 +213,8 @@
 </a>
 
 <br/><br/>
+
+
 
 <!-- Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikey177013&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&hide_border=true" width="98%" alt="activity graph"/>
